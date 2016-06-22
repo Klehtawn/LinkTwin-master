@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Items>
+  <Solutions type="Solutions" ammount ="3" price ="0.99" shopId="3solutions"/>
+  <Solutions type="Solutions" ammount ="10" price ="2.99" shopId="10solutions"/>
+  <Solutions type="Solutions" ammount ="20" price ="5.99" shopId="20solutions"/>
+  <Solutions type="Solutions" ammount ="30" price ="9.99" shopId="30solutions"/>
+    
+  <Runes type="Runes" ammount ="1300" price ="0.99" shopId="1300coins"/>
+  <Runes type="Runes" ammount ="4800" price ="2.99" shopId="4800coins"/>
+  <Runes type="Runes" ammount ="12000" price ="6.99" shopId="12000coins"/>
+  <Runes type="Runes" ammount ="35000" price ="19.99" shopId="35000coins"/>
+
+  <GenericPowerup type="PowerupFreezeCharacter" ammount ="5" price ="soft:1300" displayname="SHOP_FREEZE"/>
+  <GenericPowerup type="PowerupPlaceATile" ammount ="7" price ="soft:1300" displayname="SHOP_TILES"/>
+  <GenericPowerup type="PowerupFreezeCharacter" ammount ="10" price ="soft:2500" displayname="SHOP_FREEZE"/>
+  <GenericPowerup type="PowerupPlaceATile" ammount ="15" price ="soft:2500" displayname="SHOP_TILES"/>
+
+  <GenericPowerup type="PowerupFreezeCharacter" ammount ="15" price ="soft:3500" displayname="SHOP_FREEZE"/>
+  <GenericPowerup type="PowerupPlaceATile" ammount ="20" price ="soft:3500" displayname="SHOP_TILES"/>
+  <GenericPowerup type="PowerupFreezeCharacter" ammount ="25" price ="soft:5500" displayname="SHOP_FREEZE"/>
+  <GenericPowerup type="PowerupPlaceATile" ammount ="35" price ="soft:5500" displayname="SHOP_TILES"/>
+
+  <Bundle type="Bundle" ammount ="1" bundle ="3,Solutions,3,PowerupFreezeCharacter,3,PowerupPlaceATile,1300,Runes" price ="1.99" shopId="bundle1"/>
+  <Bundle type="Bundle" ammount ="1" bundle ="4,Solutions,4,PowerupFreezeCharacter,4,PowerupPlaceATile,4800,Runes" price ="4.99" shopId="bundle2"/>
+  <Bundle type="Bundle" ammount ="1" bundle ="5,Solutions,5,PowerupFreezeCharacter,5,PowerupPlaceATile,12000,Runes" price ="9.99" shopId="bundle3"/>
+  <Bundle type="Bundle" ammount ="1" bundle ="6,Solutions,6,PowerupFreezeCharacter,6,PowerupPlaceATile,35000,Runes" price ="22.99" shopId="bundle4"/>
+
+  <Donation type="Donation1" ammount ="1" price ="0.99" displayname="SHOP_DONATION1" shopId="removeads1"/>
+  <Donation type="Donation2" ammount ="1" price ="2.99" displayname="SHOP_DONATION2" shopId="removeads2"/>
+  <Donation type="Donation3" ammount ="1" price ="5.99" displayname="SHOP_DONATION3" shopId="removeads3"/>
+  <Donation type="Donation4" ammount ="1" price ="15.99" displayname="SHOP_DONATION4" shopId="removeads4"/>
+  <Donation type="Donation5" ammount ="1" price ="99.99" displayname="SHOP_DONATION5" shopId="removeads5"/>
+  
+  <UnlockAll type="UnlockAll" ammount="1" price="3.99" displayname="SHOP_UNLOCK_CHAPTERS" shopId="unlock.chapters"/>
+  
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="0" args="chapter1"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="175" args="chapter2"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="524" args="chapter3"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="1054" args="chapter4"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="1223" args="chapter5"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="1879" args="chapter6"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="2146" args="chapter7"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="2955" args="chapter8"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="3254" args="chapter9"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="4523" args="chapter10"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="5882" args="chapter11"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="6285" args="chapter12"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="6917" args="chapter13"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="8266" args="chapter14"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="9821" args="chapter15"/>
+  <ChapterUnlock type="ChapterUnlock" ammount ="1" price ="10776" args="chapter16"/>
+ 
+    
+</Items>

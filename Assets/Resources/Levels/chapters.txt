@@ -1,0 +1,1 @@
+{"version":1,"chapters":[{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3},{"levels":20,"bonus":3}]}

@@ -1,0 +1,5 @@
+@1.5, 3
+girl: Its beautiful out here!
+
++3, 3
+boy: ...

@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 1c971aba6a632994bbfe20d29f50ef41
+timeCreated: 1453371375
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: eyes_0
+    21300002: eyes_1
+    21300004: eyes_2
+    21300006: eyes_3
+    21300008: eyes_closed
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: eyes_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 934
+        width: 364
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 55}
+        - {x: -115, y: 55}
+        - {x: -118, y: 54}
+        - {x: -126, y: 51}
+        - {x: -157, y: 47}
+        - {x: -157, y: -50}
+        - {x: -144, y: -54}
+        - {x: -74, y: -54}
+        - {x: -48, y: -25}
+        - {x: -48, y: 30}
+        - {x: -49, y: 37}
+      - - {x: 54, y: -21}
+        - {x: 56, y: -34}
+        - {x: 69, y: -54}
+        - {x: 154, y: -54}
+        - {x: 163, y: -49}
+        - {x: 163, y: 36}
+        - {x: 152, y: 55}
+        - {x: 73, y: 55}
+        - {x: 54, y: 27}
+    - name: eyes_1
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 782
+        width: 364
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -135, y: 51}
+        - {x: -157, y: 32}
+        - {x: -157, y: -25}
+        - {x: -135, y: -54}
+        - {x: -121, y: -54}
+        - {x: -48, y: -25}
+        - {x: -48, y: 31}
+        - {x: -74, y: 51}
+      - - {x: 90, y: 57}
+        - {x: 54, y: 30}
+        - {x: 54, y: -45}
+        - {x: 56, y: -54}
+        - {x: 182, y: -54}
+        - {x: 182, y: 51}
+        - {x: 178, y: 57}
+    - name: eyes_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 150
+        width: 364
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -158, y: -50}
+        - {x: -49, y: -50}
+        - {x: -49, y: 24}
+        - {x: -73, y: 46}
+        - {x: -153, y: 46}
+        - {x: -158, y: 29}
+      - - {x: 58, y: 46}
+        - {x: 53, y: 45}
+        - {x: 53, y: -50}
+        - {x: 156, y: -50}
+        - {x: 162, y: -49}
+        - {x: 162, y: 38}
+        - {x: 160, y: 46}
+    - name: eyes_3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 629
+        width: 364
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 31}
+        - {x: 56, y: 11}
+        - {x: 56, y: -38}
+        - {x: 69, y: -53}
+        - {x: 158, y: -53}
+        - {x: 165, y: -36}
+        - {x: 165, y: 22}
+        - {x: 157, y: 31}
+      - - {x: -153, y: 31}
+        - {x: -155, y: 26}
+        - {x: -155, y: -43}
+        - {x: -144, y: -50}
+        - {x: -53, y: -50}
+        - {x: -46, y: -35}
+        - {x: -46, y: 16}
+        - {x: -61, y: 31}
+    - name: eyes_closed
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 11
+        width: 364
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72, y: 4}
+        - {x: -87, y: 4}
+        - {x: -90, y: 2}
+        - {x: -87, y: -1}
+        - {x: -102, y: 4}
+        - {x: -129, y: 4}
+        - {x: -152, y: -1}
+        - {x: -157, y: -18}
+        - {x: -157, y: -37}
+        - {x: -113, y: -37}
+        - {x: -82, y: -36}
+        - {x: -63, y: -37}
+        - {x: -50, y: -37}
+        - {x: -50, y: -11}
+      - - {x: 137, y: 4}
+        - {x: 58, y: 4}
+        - {x: 58, y: -36}
+        - {x: 59, y: -37}
+        - {x: 130, y: -37}
+        - {x: 134, y: -35}
+        - {x: 133, y: -31}
+        - {x: 153, y: -37}
+        - {x: 163, y: -37}
+        - {x: 165, y: -36}
+        - {x: 165, y: -18}
+        - {x: 144, y: -1}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

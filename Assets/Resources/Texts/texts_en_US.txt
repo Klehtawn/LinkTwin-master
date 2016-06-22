@@ -1,0 +1,207 @@
+103
+PLAY
+PLAY
+WORKSHOP
+WORKSHOP
+CHAPTER_N
+CHAPTER {0}
+RANDOM_LEVEL
+RANDOM LEVEL
+CREATE_NEW
+CREATE NEW
+MY_LEVELS
+MY LEVELS
+TOP_100
+TOP 100
+FAVORITES
+FAVORITES
+RESUME
+RESUME
+EXIT
+EXIT
+RUNES
+RUNES
+SOLUTIONS
+SOLUTIONS
+BUY_CURRENCY
+BUY CURRENCY
+BUY_ITEM
+BUY ITEM
+BUY_ITEM_PRICE
+for {0} coins?
+ITEM_PURCHASED
+Item was purchased.
+LEVEL_N
+LEVEL {0}
+LEVEL_COMPLETE
+LEVEL COMPLETE
+TOTAL
+TOTAL
+USE_SOLUTION_CONFIRM
+Do you want to use a solution?
+UPLOAD_LEVEL_CONFIRM
+Upload to cloud?
+LEVEL_LOST
+LEVEL LOST
+VIBRATE
+VIBRATE
+NOTIFICATIONS
+NOTIFICATIONS
+SOUNDS
+SOUNDS
+MUSIC
+MUSIC
+ON
+ON
+OFF
+OFF
+LEVEL_FINISHED
+LEVEL FINISHED
+TOTAL_N
+TOTAL: {0}
+SOLUTION
+SOLUTION
+NO_SOLUTION
+No solution available
+GS_CANNOT_CONNECT
+Unable to connect to server.
+PURCHASE_FAILED
+Purchase failed.
+PURCHASE_CANCELED
+Purchase canceled.
+LEVEL_UPLOAD_FAILED
+Failed to upload level. Please check your internet connection.
+NOTHING_TO_CONNECT_TO
+Nothing to connect to. Deleted.
+WORKSHOP_NO_SPAWN
+Add at least one spawn point.
+WORKSHOP_NOT_ENOUGH_SPAWN
+Not enough spawning points.
+WORKSHOP_NOT_ENOUGH_FINISHES
+Not enough finishing points.
+WORKSHOP_NO_PLACE
+Nowhere to place.
+NO_INTERNET
+No Internet connection.
+PLEASE_WAIT
+Please wait
+FB_LOGIN
+FACEBOOK LOGIN
+REMOVE_ADS
+REMOVE ADS
+CATEGORY
+CATEGORY
+NOTHING_TO_DISPLAY
+Nothing to display.
+LEVELS
+LEVELS
+RATE_APP_TITLE
+RATE US NOW OR THE KITTY GETS IT.
+RATE_APP_NOW
+RATE NOW
+RATE_APP_LATER
+REMIND ME LATER
+RATE_APP_NEVER
+I HATE CATS
+QUIT_CONFIRM
+Quit LinkTwin?
+RESET_PROGRESS
+RESET PROGRESS
+SETTINGS
+SETTINGS
+RESET_PROGRESS_QUESTION
+Are you sure? This will delete all your level unlock progress.
+SEND_FEEDBACK
+SEND FEEDBACK
+FEEDBACK
+FEEDBACK
+THANKS_FOR_FEEDBACK
+Thank you for your feedback!
+COME_BACK_TITLE
+Link Twin Test Title
+COME_BACK_MESSAGE
+Placeholder message about glory and riches! Come back and play!
+SYNC_PROGRESS
+SYNC PROGRESS
+LIKE
+LIKE
+ABOUT
+ABOUT
+CREDITS
+CREDITS
+PRIVACY
+Privacy policy
+TERMS
+Terms of service
+CUSTOMER
+CUSTOMER CARE
+ABOUT_DESCRIPTION
+Developed by Amber Studio\nPublished by Carbon
+UNITY_DISCLAIMER
+This program was created using Unity 5.x\nPortions of this program © 2005-2016 Unity Technologies
+CREDITS_PEOPLE
+Developed by\nAMBER STUDIO\n\n<color1>GENERAL MANAGER</color1>\nDragos Hancu\n\n<color1>HEAD OF STUDIO</color1>\nGabriel Stancu\n\n<color1>PRODUCER</color1>\nFrancisc-Traian Apostu\n\n<color1>DESIGN</color1>\nFrancisc Apostu\nBogdan Dinca\nAurelian Talpasanu\n\n<color1>PROGRAMMING</color1>\nCatalin Slobodeanu\nStefan Podea\nSorin Gradinaru\n\n<color1>ART</color1>\nTeresa Wójcicka\nXenia Pamfil\nAlex Pamfil\nCristian Simionescu\nCalin Cazan\nCatalin Tudor\nGulzar Junaid\n\n<color1>MUSIC & SOUND</color1>\nORB SOUNDWERX\nClayton Tapp\nPerson 1\nPerson 2\nPerson 3\n\n<color1>PRODUCT MANAGER</color1>\nEmilia Munteanu\n\n<color1>PROJECT MANAGER</color1>\nDan Amuza\nAndrei Chelus\n\n<color1>PRODUCTION TESTERS</color1>\nAlexandru Stanculescu\nHoratiu Neagu\n\n<color1>FACILITY</color1>\nLidia Pohontu\nVlad Taschina\n\n<color1>IT</color1>\nVlad Marinescu\nEugen Pohontu\n\n<color1>PEOPLE OPS</color1>\nAna Pohrib\nMonica Farkas\nCodruta Frunza\n\n<color1>FINANCE</color1>\nRaluca Iorga\nRuxandra Iorga\nLoredana Baicea
+UNLOCK_ALL_CHAPTERS
+UNLOCK ALL CHAPTERS
+PAY_HOW_MUCH_YOU_WANT
+PAY HOW MUCH YOU WANT
+SHOP_FREEZE
+Freeze
+SHOP_TILES
+Tiles
+SHOP_DONATION1
+Every cent counts!
+SHOP_DONATION2
+Yay!
+SHOP_DONATION3
+Thanks kindly!
+SHOP_DONATION4
+Oh my, that’s so sweet!
+SHOP_DONATION5
+You love us and we love you back!
+SHOP_UNLOCK_CHAPTERS
+Unlock all chapters
+WE_ARE_SMALL
+We are a small indie studio that wants to keep building amazing experiences for our fans.\nPay what you want to remove ads and support us to create more awesome stuff!
+CHAPTER_1_TITLE
+I - Roadtrip
+CHAPTER_2_TITLE
+II - Lost
+CHAPTER_3_TITLE
+III - Nightfall
+CHAPTER_4_TITLE
+IV - Remains
+CHAPTER_5_TITLE
+V - Lifesource
+CHAPTER_1_TEXT
+Bold and eager, out of bed, we knew not what lay ahead
+CHAPTER_2_TEXT
+Strange stones cloaked in mist, waiting for your legs to twist
+CHAPTER_3_TEXT
+Fear and darkness all around, food and shelter still not found
+CHAPTER_4_TEXT
+Ancient wonders lay ahead, like before and through the dread
+CHAPTER_5_TEXT
+Full of hope, we entered the magic gardens
+RESTORE_PURCHASES
+RESTORE PURCHASES
+UNLOCK_CHAPTER_X
+UNLOCK CHAPTER {0}
+UNLOCK_CHAPTER
+UNLOCK THIS CHAPTER
+FACEBOOK_LOGOUT
+LOGOUT
+BUY_ITEM_WITH_RUNES
+Buy {0} with {1} runes ?
+NOT_ENOUGH_CURRENCY
+Not enough currency.
+YOU_HAVE
+YOU HAVE: 
+FACEBOOK_SYNCED
+You are now synced with your Facebook account.\nYou have received a reward!
+UNLOCK_CHAPTER_WITH_RUNES
+Are you sure you want to unlock Chapter {0} for:
+UNLOCK_CHAPTER_SIMPLE
+UNLOCK CHAPTER
+LOCKED
+LOCKED

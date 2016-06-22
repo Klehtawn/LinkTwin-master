@@ -1,0 +1,5 @@
+@3, 3
+boy: Stay close!
+
++2.6, 2
+girl: wait for me!

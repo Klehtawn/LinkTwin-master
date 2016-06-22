@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &125896
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 483566}
+  - 114: {fileID: 11407806}
+  m_Layer: 0
+  m_Name: ChapterThemes
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &483566
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 125896}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11407806
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 125896}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 708621c3ae649674b87ece6d813d23e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  themes:
+  - chapterIntro: {fileID: 0}
+    chapterBackground: {fileID: 22488806, guid: 0906d2ed0a48b904cb6c0adfbc3a6a19,
+      type: 2}
+    ingameBackground: {fileID: 401196, guid: ece157f13f8b9fb4eab3f3f90286b78e, type: 2}
+  - chapterIntro: {fileID: 0}
+    chapterBackground: {fileID: 22488806, guid: de1b26dc8c19fa240ba74b08f62e9892,
+      type: 2}
+    ingameBackground: {fileID: 401196, guid: a5ee14278c7ad7942b58d442c0b2588d, type: 2}
+  - chapterIntro: {fileID: 0}
+    chapterBackground: {fileID: 22488806, guid: 8e46ed6380edda64fa5c52d5ff493ba7,
+      type: 2}
+    ingameBackground: {fileID: 401196, guid: 8387f975ba1823040a258b6ed7ca64fb, type: 2}
+  - chapterIntro: {fileID: 0}
+    chapterBackground: {fileID: 22488806, guid: f186e3ab4595a7143b819274b2919427,
+      type: 2}
+    ingameBackground: {fileID: 401196, guid: ea81260a7c2d8b549ad1beb8dc886025, type: 2}
+  - chapterIntro: {fileID: 0}
+    chapterBackground: {fileID: 22488806, guid: ca5f0632444f90a4889401c9a5364629,
+      type: 2}
+    ingameBackground: {fileID: 401196, guid: 77188c46caaab544d9464df610906d94, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: themes.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[0].chapterBackground
+      value: 
+      objectReference: {fileID: 22405228, guid: 4fd50d2ac218e1b4a8061d848c599d80,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[1].chapterBackground
+      value: 
+      objectReference: {fileID: 22405228, guid: 18c902d4edd181a4fbd2853bbf3ac8fd,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[0].ingameBackground
+      value: 
+      objectReference: {fileID: 490378, guid: 084e995a68e6b374db4f934bc40e3a78, type: 2}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[1].ingameBackground
+      value: 
+      objectReference: {fileID: 490378, guid: ecc067017da32054ca817b0dbec4954a, type: 2}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[2].chapterBackground
+      value: 
+      objectReference: {fileID: 22405228, guid: 4bf591d62f551b7439b7fe69dda0a27c,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[3].chapterBackground
+      value: 
+      objectReference: {fileID: 22405228, guid: cdcad96a1d6a3fa439c41af35dcb6ac3,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[4].chapterBackground
+      value: 
+      objectReference: {fileID: 22405228, guid: ab266f5cc1598114e85bf63568c8f357,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: themes.Array.data[5].chapterBackground
+      value: 
+      objectReference: {fileID: 22405228, guid: 061f7739c8315904e8f8c8e46d2f7848,
+        type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 125896}
+  m_IsPrefabParent: 1

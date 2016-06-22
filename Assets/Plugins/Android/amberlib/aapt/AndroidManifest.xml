@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.amberstudio.amberlib"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="23" />
+
+    <!-- C2D_MESSAGE START -->
+    <permission
+        android:name="dollar_openBracket_applicationId_closeBracket"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="dollar_openBracket_applicationId_closeBracket" />
+    <!-- C2D_MESSAGE END -->
+
+
+    <!-- IAP START -->
+    <uses-permission android:name="com.sec.android.iap.permission.BILLING" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- IAP END -->
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true" >
+
+        <!-- Push notifications START -->
+        <receiver
+            android:name="com.google.android.gms.gcm.GcmReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+
+                <category android:name="dollar_openBracket_applicationId_closeBracket" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.amberstudio.amberlib.AmberGcmListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.amberstudio.amberlib.AmberInstanceIDListenerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.iid.InstanceID" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.amberstudio.amberlib.RegistrationIntentService"
+            android:exported="false" />
+        <!-- Push notifications END -->
+
+
+        <!-- Local notifications START -->
+        <receiver android:name="com.amberstudio.amberlib.NotificationBroadcaster" />
+        <!-- Local notifications END -->
+
+
+        <!-- Samsung IAP START -->
+        <activity
+            android:name="com.samsung.android.sdk.iap.lib.activity.InboxActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.Empty" />
+        <activity
+            android:name="com.samsung.android.sdk.iap.lib.activity.PaymentActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.Empty" />
+        <activity
+            android:name="com.samsung.android.sdk.iap.lib.activity.ItemActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/Theme.Empty" />
+        <!-- Samsung IAP END -->
+
+    </application>
+
+</manifest>

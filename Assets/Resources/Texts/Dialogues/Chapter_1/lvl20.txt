@@ -1,0 +1,8 @@
+@1.5, 3
+cat: Mewww
+
++2.5, 3
+girl: I think it likes you.
+
++2.5, 3
+boy: ...

@@ -1,0 +1,12 @@
+@3, 3
+girl: Im tired.
+
++2.5, 3
+girl: Can we rest now?
+
+
++2.5, 3
+boy: Not yet...
+
++2.5, 3
+boy: We must try to catch up.

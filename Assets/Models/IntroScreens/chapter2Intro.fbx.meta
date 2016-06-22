@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 3fea0a63ba6caf14e97f9f53bb89264e
+timeCreated: 1466003061
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Plane11
+    100004: Plane13
+    100006: Plane14
+    100008: Plane2
+    100010: Plane31
+    100012: Plane32
+    100014: Plane33
+    100016: Plane35
+    100018: Plane36
+    100020: Plane37
+    100022: Plane38
+    100024: Plane39
+    100026: Plane41
+    100028: Plane42
+    100030: Plane44
+    100032: Plane45
+    100034: Plane46
+    100036: Plane47
+    100038: Plane48
+    100040: Plane49
+    100042: Plane5
+    100044: Plane50
+    100046: Plane51
+    100048: Plane52
+    100050: Plane53
+    100052: Plane56
+    100054: Plane57
+    100056: Plane58
+    100058: Plane6
+    100060: Plane60
+    100062: Plane61
+    100064: Plane7
+    100066: Plane8
+    100068: Plane82
+    400000: //RootNode
+    400002: Plane11
+    400004: Plane13
+    400006: Plane14
+    400008: Plane2
+    400010: Plane31
+    400012: Plane32
+    400014: Plane33
+    400016: Plane35
+    400018: Plane36
+    400020: Plane37
+    400022: Plane38
+    400024: Plane39
+    400026: Plane41
+    400028: Plane42
+    400030: Plane44
+    400032: Plane45
+    400034: Plane46
+    400036: Plane47
+    400038: Plane48
+    400040: Plane49
+    400042: Plane5
+    400044: Plane50
+    400046: Plane51
+    400048: Plane52
+    400050: Plane53
+    400052: Plane56
+    400054: Plane57
+    400056: Plane58
+    400058: Plane6
+    400060: Plane60
+    400062: Plane61
+    400064: Plane7
+    400066: Plane8
+    400068: Plane82
+    2300000: Plane11
+    2300002: Plane13
+    2300004: Plane14
+    2300006: Plane2
+    2300008: Plane31
+    2300010: Plane32
+    2300012: Plane33
+    2300014: Plane35
+    2300016: Plane36
+    2300018: Plane37
+    2300020: Plane38
+    2300022: Plane39
+    2300024: Plane41
+    2300026: Plane42
+    2300028: Plane44
+    2300030: Plane45
+    2300032: Plane46
+    2300034: Plane47
+    2300036: Plane48
+    2300038: Plane49
+    2300040: Plane5
+    2300042: Plane50
+    2300044: Plane51
+    2300046: Plane52
+    2300048: Plane53
+    2300050: Plane56
+    2300052: Plane57
+    2300054: Plane58
+    2300056: Plane6
+    2300058: Plane60
+    2300060: Plane61
+    2300062: Plane7
+    2300064: Plane8
+    2300066: Plane82
+    3300000: Plane11
+    3300002: Plane13
+    3300004: Plane14
+    3300006: Plane2
+    3300008: Plane31
+    3300010: Plane32
+    3300012: Plane33
+    3300014: Plane35
+    3300016: Plane36
+    3300018: Plane37
+    3300020: Plane38
+    3300022: Plane39
+    3300024: Plane41
+    3300026: Plane42
+    3300028: Plane44
+    3300030: Plane45
+    3300032: Plane46
+    3300034: Plane47
+    3300036: Plane48
+    3300038: Plane49
+    3300040: Plane5
+    3300042: Plane50
+    3300044: Plane51
+    3300046: Plane52
+    3300048: Plane53
+    3300050: Plane56
+    3300052: Plane57
+    3300054: Plane58
+    3300056: Plane6
+    3300058: Plane60
+    3300060: Plane61
+    3300062: Plane7
+    3300064: Plane8
+    3300066: Plane82
+    4300000: Plane2
+    4300002: Plane8
+    4300004: Plane82
+    4300006: Plane5
+    4300008: Plane6
+    4300010: Plane7
+    4300012: Plane11
+    4300014: Plane13
+    4300016: Plane14
+    4300018: Plane31
+    4300020: Plane32
+    4300022: Plane33
+    4300024: Plane35
+    4300026: Plane36
+    4300028: Plane37
+    4300030: Plane38
+    4300032: Plane39
+    4300034: Plane41
+    4300036: Plane42
+    4300038: Plane44
+    4300040: Plane45
+    4300042: Plane46
+    4300044: Plane47
+    4300046: Plane48
+    4300048: Plane49
+    4300050: Plane50
+    4300052: Plane51
+    4300054: Plane52
+    4300056: Plane53
+    4300058: Plane56
+    4300060: Plane57
+    4300062: Plane58
+    4300064: Plane60
+    4300066: Plane61
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 150
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Plane2
+        weight: 1
+      - path: Plane5
+        weight: 1
+      - path: Plane6
+        weight: 1
+      - path: Plane7
+        weight: 1
+      - path: Plane8
+        weight: 1
+      - path: Plane11
+        weight: 1
+      - path: Plane13
+        weight: 1
+      - path: Plane14
+        weight: 1
+      - path: Plane31
+        weight: 1
+      - path: Plane32
+        weight: 1
+      - path: Plane33
+        weight: 1
+      - path: Plane35
+        weight: 1
+      - path: Plane36
+        weight: 1
+      - path: Plane37
+        weight: 1
+      - path: Plane38
+        weight: 1
+      - path: Plane39
+        weight: 1
+      - path: Plane41
+        weight: 1
+      - path: Plane42
+        weight: 1
+      - path: Plane44
+        weight: 1
+      - path: Plane45
+        weight: 1
+      - path: Plane46
+        weight: 1
+      - path: Plane47
+        weight: 1
+      - path: Plane48
+        weight: 1
+      - path: Plane49
+        weight: 1
+      - path: Plane50
+        weight: 1
+      - path: Plane51
+        weight: 1
+      - path: Plane52
+        weight: 1
+      - path: Plane53
+        weight: 1
+      - path: Plane56
+        weight: 1
+      - path: Plane57
+        weight: 1
+      - path: Plane58
+        weight: 1
+      - path: Plane60
+        weight: 1
+      - path: Plane61
+        weight: 1
+      - path: Plane82
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1000
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

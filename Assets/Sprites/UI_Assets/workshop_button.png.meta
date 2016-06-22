@@ -1,0 +1,114 @@
+fileFormatVersion: 2
+guid: 2cd6a31a1ce80214b874afdd7f39146d
+timeCreated: 1461250180
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: workshop_button_left
+    21300002: workshop_button_right
+    21300004: workshop_button_middle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: workshop_button_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 87.5}
+        - {x: -103, y: 33.5}
+        - {x: -103, y: -22.5}
+        - {x: -68, y: -42.5}
+        - {x: 86, y: -87.5}
+        - {x: 103, y: -87.5}
+        - {x: 103, y: 87.5}
+    - name: workshop_button_right
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 0
+        width: 600
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -102.73828, y: 87.5}
+        - {x: -102.73828, y: -87.5}
+        - {x: -44.73828, y: -87.5}
+        - {x: 103.26172, y: -31.5}
+        - {x: 103.26172, y: 52.5}
+        - {x: -51.73828, y: 87.5}
+    - name: workshop_button_middle
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 0
+        width: 137
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.058594, y: -87.5}
+        - {x: 24.941406, y: -87.5}
+        - {x: 24.941406, y: -80.5}
+        - {x: -23.058594, y: -80.5}
+      - - {x: -23.058594, y: 87.5}
+        - {x: -23.058594, y: 80.5}
+        - {x: 24.941406, y: 80.5}
+        - {x: 24.941406, y: 87.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

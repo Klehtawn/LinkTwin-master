@@ -1,0 +1,1 @@
+ExcelExporter.exe %cd%\texts.xlsx ..\Resources\Texts

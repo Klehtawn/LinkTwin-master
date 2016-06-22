@@ -1,0 +1,8 @@
+@1.5, 3
+girl: Where did it go?
+
++2.5, 3
+boy: ..good riddance.
+
++2.5, 3
+Girl: It was so cute!

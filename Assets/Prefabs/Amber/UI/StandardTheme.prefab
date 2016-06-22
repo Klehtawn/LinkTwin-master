@@ -1,0 +1,755 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &161950
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 495170}
+  - 114: {fileID: 11463476}
+  m_Layer: 0
+  m_Name: StandardTheme
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &495170
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161950}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11463476
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161950}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aec29b8580864b044a50ad1f04308dc0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  desktopBackground: {fileID: 22470774, guid: 4ca33fdef8d9adf428c69949e7d48a78, type: 2}
+  blackBackground: {fileID: 22436056, guid: 483bc48d11ce65f4084f4865e182a9e1, type: 2}
+  windowBackground: {fileID: 22470774, guid: 771f0bdd68bfc6941946d3d58e924951, type: 2}
+  messageBoxBackground: {fileID: 22470774, guid: 5e2a94758161e454a88cc1abddd6abdb,
+    type: 2}
+  messageBoxBackgroundSimple: {fileID: 22470774, guid: 37bafeaf7534fa6419aa0f4bc5521a10,
+    type: 2}
+  panelBackground: {fileID: 22470556, guid: ce16c010078c3aa4ca49c94bdc58705c, type: 2}
+  modalsTransparentBlack: {fileID: 11493176, guid: cc50aef900ea9c54da5e2dbfd6418641,
+    type: 2}
+  buttonPressEffect: {fileID: 11466002, guid: dbd4feaef068b6b439d6798332a59c1f, type: 2}
+  smallButtonAppearance:
+    preferredHeight: 50
+    preferredWidth: 220
+    preferredTotalWidth: 340
+    preferredContentHeight: 0.568
+    preferredBackground: {fileID: 22493998, guid: a81cafe6622905948a3e73d550d19d3d,
+      type: 2}
+    specialBackground1: {fileID: 22484304, guid: d1f4b131053eed24ca05d9dff228ba05,
+      type: 2}
+    specialBackground2: {fileID: 22423138, guid: bd7ad6de796f9ab43b75bc42b30facf8,
+      type: 2}
+    specialBackground3: {fileID: 0}
+    specialBackground4: {fileID: 0}
+    specialBackground5: {fileID: 0}
+  wideButtonAppearance:
+    preferredHeight: 60
+    preferredWidth: 220
+    preferredTotalWidth: 340
+    preferredContentHeight: 0.432
+    preferredBackground: {fileID: 22435902, guid: 745c35c440bbb1848821b23c50536707,
+      type: 2}
+    specialBackground1: {fileID: 22435902, guid: 3787e3d08766d3443be15832bc2b3721,
+      type: 2}
+    specialBackground2: {fileID: 0}
+    specialBackground3: {fileID: 0}
+    specialBackground4: {fileID: 0}
+    specialBackground5: {fileID: 0}
+  generalAppearance:
+    background: {r: 0.7843138, g: 0.6509804, b: 0.3921569, a: 1}
+    backgroundInactive: {r: 0.86274517, g: 0.7843138, b: 0.61960787, a: 1}
+    foreground: {r: 0.9803922, g: 0.9803922, b: 0.9803922, a: 1}
+    foregroundInactive: {r: 0, g: 0, b: 1, a: 1}
+    desktop: {r: 0, g: 0, b: 0, a: 1}
+    buttonBackground: {r: 0.83823526, g: 0.83823526, b: 0.83823526, a: 1}
+    buttonForeground: {r: 0.9803922, g: 0.9803922, b: 0.9803922, a: 1}
+    font: {fileID: 11498998, guid: c2351727837d46841ae710031cac79b0, type: 2}
+    screenShowEffect: {fileID: 11411100, guid: 6f87b4bb8b07e104b92ea027aab0b12a, type: 2}
+    screenCloseEffect: {fileID: 11460936, guid: 8df454d354b8eae4795d2a6e1d82818f,
+      type: 2}
+  popupWindowAppearance:
+    background: {r: 0.9921569, g: 0.98823535, b: 0.9725491, a: 1}
+    foreground: {r: 0.21176472, g: 0.21176472, b: 0.21176472, a: 1}
+    buttonBackground: {r: 0.7843138, g: 0.6509804, b: 0.3921569, a: 1}
+    buttonForeground: {r: 0.87931037, g: 0.7298276, b: 0.43965518, a: 1}
+    font: {fileID: 11498998, guid: c2351727837d46841ae710031cac79b0, type: 2}
+    showEffect: {fileID: 11458434, guid: 8ed72429b3f33fa4fac308fcdf975f6e, type: 2}
+    closeEffect: {fileID: 11496446, guid: b52c49f4998adaf479b723b8e0e6e660, type: 2}
+  otherAppearanceSettings:
+    facebook: {r: 0.40000004, g: 0.4156863, b: 0.6392157, a: 1}
+    link: {r: 0.40000004, g: 0.4156863, b: 0.6392157, a: 1}
+    linkInactive: {r: 0.7115593, g: 0.7164908, b: 0.78676474, a: 1}
+    specialColor1: {r: 0.49803925, g: 0.69803923, b: 0.7411765, a: 1}
+    specialColor2: {r: 0.5661765, g: 0.5661765, b: 0.5661765, a: 1}
+    specialColor3: {r: 0.110510394, g: 0.14668597, b: 0.20588237, a: 1}
+    specialFont1: {fileID: 11498998, guid: 574afd0688cf9e94889ebce2359f5e04, type: 2}
+    specialFont2: {fileID: 11498998, guid: 861749919e0f00549bd94f7bb0145182, type: 2}
+    specialFont3: {fileID: 11498998, guid: c2351727837d46841ae710031cac79b0, type: 2}
+  soundScheme: {fileID: 11462102, guid: eb7f7903c4e9b7041aa0fd58c2d0c11c, type: 2}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 0}
+      propertyPath: transparentBlack
+      value: 
+      objectReference: {fileID: 11493176, guid: cc50aef900ea9c54da5e2dbfd6418641,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: modalBackground
+      value: 
+      objectReference: {fileID: 11493176, guid: cc50aef900ea9c54da5e2dbfd6418641,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: desktopBackground
+      value: 
+      objectReference: {fileID: 22470774, guid: 4ca33fdef8d9adf428c69949e7d48a78,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: middleText
+      value: 
+      objectReference: {fileID: 11498998, guid: 5ac3ee7d5a2fc0844a506bc9d65ea1fc,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: baseColor1.r
+      value: 0.6911765
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor1.g
+      value: 0.4751838
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor1.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor1.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: buttonBackground
+      value: 
+      objectReference: {fileID: 22470774, guid: 562c25f96f9001d4189e7e1c87721839,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: desktopColor.r
+      value: 0.9882353
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: desktopColor.g
+      value: 0.98039216
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: desktopColor.b
+      value: 0.95686275
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: buttonText
+      value: 
+      objectReference: {fileID: 11498998, guid: c2351727837d46841ae710031cac79b0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: bigText
+      value: 
+      objectReference: {fileID: 11498998, guid: 02bfda0e77f53134c965070d1a5d8be0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: smallText
+      value: 
+      objectReference: {fileID: 11498998, guid: 861749919e0f00549bd94f7bb0145182,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: backgroundColor.r
+      value: 0.91372555
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: backgroundColor.g
+      value: 0.5529412
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: backgroundColor.b
+      value: 0.42352945
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: buttonBorder
+      value: 0.174
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: foregroundColor.r
+      value: 0.29411763
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: foregroundColor.g
+      value: 0.17733563
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: foregroundColor.b
+      value: 0.17733563
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: buttonPressEffect
+      value: 
+      objectReference: {fileID: 11466002, guid: dbd4feaef068b6b439d6798332a59c1f,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: messageBoxText
+      value: 
+      objectReference: {fileID: 11498998, guid: 0552dfc8080d7e44ea6f36716c0aa0a0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: windowText
+      value: 
+      objectReference: {fileID: 11498998, guid: 0552dfc8080d7e44ea6f36716c0aa0a0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: windowTextColor.r
+      value: 0.42647058
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: windowTextColor.g
+      value: 0.42647058
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: windowTextColor.b
+      value: 0.42647058
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: messageBoxBackground
+      value: 
+      objectReference: {fileID: 22470774, guid: 5e2a94758161e454a88cc1abddd6abdb,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: facebookBackground
+      value: 
+      objectReference: {fileID: 22470774, guid: cf1625ec065a2f74ca205e59da0517e2,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: facebookColor.r
+      value: 0.41176474
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: facebookColor.g
+      value: 0.39607847
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: facebookColor.b
+      value: 0.61960787
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: backgroundSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: eeb3a60574622064bb6db3b7383086f4,
+        type: 3}
+    - target: {fileID: 0}
+      propertyPath: modalsTransparentBlack
+      value: 
+      objectReference: {fileID: 11493176, guid: cc50aef900ea9c54da5e2dbfd6418641,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: sounds
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: soundScheme
+      value: 
+      objectReference: {fileID: 11462102, guid: eb7f7903c4e9b7041aa0fd58c2d0c11c,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: backgroundColorInactive.r
+      value: 0.85294116
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: backgroundColorInactive.g
+      value: 0.7329273
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: backgroundColorInactive.b
+      value: 0.6898789
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: backgroundColorInactive.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: messageBoxBackgroundSimple
+      value: 
+      objectReference: {fileID: 22470774, guid: 37bafeaf7534fa6419aa0f4bc5521a10,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: linkColor.r
+      value: 0.2635705
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: linkColor.g
+      value: 0.53935236
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: linkColor.b
+      value: 0.9191176
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: linkInactiveColor.r
+      value: 0.76557094
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: linkInactiveColor.g
+      value: 0.8145215
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: linkInactiveColor.b
+      value: 0.88235295
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: linkInactiveColor.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: wideButtonBackground
+      value: 
+      objectReference: {fileID: 22435902, guid: 745c35c440bbb1848821b23c50536707,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: wideButtonHeight
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: wideButtonTextHeight
+      value: 0.45
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: wideButtonBackground2
+      value: 
+      objectReference: {fileID: 22435902, guid: 29f8ccf302c913c4a9b445e41a3f42aa,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: baseColor2.r
+      value: 0.5294118
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor2.g
+      value: 0.5176471
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor2.b
+      value: 0.48235297
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: stdButtonSize
+      value: 60
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: buttonBackgroundCustom1
+      value: 
+      objectReference: {fileID: 22493998, guid: a81cafe6622905948a3e73d550d19d3d,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: buttonBackgroundCustom2
+      value: 
+      objectReference: {fileID: 22484304, guid: d1f4b131053eed24ca05d9dff228ba05,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: stdButtonIconSize
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: buttonBackgroundCustom3
+      value: 
+      objectReference: {fileID: 22435902, guid: 3787e3d08766d3443be15832bc2b3721,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: baseColor3.r
+      value: 0.5058824
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor3.g
+      value: 0.68235296
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor3.b
+      value: 0.7254902
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor4.r
+      value: 0.8196079
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor4.g
+      value: 0.8117648
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: baseColor4.b
+      value: 0.7843138
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.desktop.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.desktop.g
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.desktop.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.desktop.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.background.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.background.g
+      value: 0.5735294
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.background.b
+      value: 0.5735294
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.background.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.backgroundInactive.r
+      value: 0.5735294
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.backgroundInactive.g
+      value: 0.51870674
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.backgroundInactive.b
+      value: 0.51870674
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.foreground.r
+      value: 0.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.foreground.g
+      value: 0.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.foreground.b
+      value: 0.875
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalColors.foreground.a
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.font
+      value: 
+      objectReference: {fileID: 11498998, guid: c2351727837d46841ae710031cac79b0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.font
+      value: 
+      objectReference: {fileID: 11498998, guid: c2351727837d46841ae710031cac79b0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialFont1
+      value: 
+      objectReference: {fileID: 11498998, guid: 574afd0688cf9e94889ebce2359f5e04,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialFont2
+      value: 
+      objectReference: {fileID: 11498998, guid: 861749919e0f00549bd94f7bb0145182,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialFont3
+      value: 
+      objectReference: {fileID: 11498998, guid: c2351727837d46841ae710031cac79b0,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.background.r
+      value: 0.7843138
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.background.g
+      value: 0.6509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.background.b
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.backgroundInactive.r
+      value: 0.86274517
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.backgroundInactive.g
+      value: 0.7843138
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.backgroundInactive.b
+      value: 0.61960787
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.desktop.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.desktop.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.desktop.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.foreground.r
+      value: 0.9803922
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.foreground.g
+      value: 0.9803922
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.foreground.b
+      value: 0.9803922
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.buttonBackground.r
+      value: 0.83823526
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.buttonBackground.g
+      value: 0.83823526
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.buttonBackground.b
+      value: 0.83823526
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.buttonForeground.r
+      value: 0.9803922
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.buttonForeground.g
+      value: 0.9803922
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.buttonForeground.b
+      value: 0.9803922
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.facebook.r
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.facebook.g
+      value: 0.4156863
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.facebook.b
+      value: 0.6392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.link.r
+      value: 0.40000004
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.link.g
+      value: 0.4156863
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.link.b
+      value: 0.6392157
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.linkInactive.r
+      value: 0.7115593
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.linkInactive.g
+      value: 0.7164908
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.linkInactive.b
+      value: 0.78676474
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor1.r
+      value: 0.49803925
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor1.g
+      value: 0.69803923
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor1.b
+      value: 0.7411765
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.foreground.r
+      value: 0.21176472
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.foreground.g
+      value: 0.21176472
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.foreground.b
+      value: 0.21176472
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.buttonBackground.r
+      value: 0.7843138
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.buttonBackground.g
+      value: 0.6509804
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.buttonBackground.b
+      value: 0.3921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.buttonForeground.r
+      value: 0.87931037
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.buttonForeground.g
+      value: 0.7298276
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.buttonForeground.b
+      value: 0.43965518
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: wideButtonAppearance.preferredBackground
+      value: 
+      objectReference: {fileID: 22435902, guid: 745c35c440bbb1848821b23c50536707,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: wideButtonAppearance.specialBackground1
+      value: 
+      objectReference: {fileID: 22435902, guid: 3787e3d08766d3443be15832bc2b3721,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: wideButtonAppearance.preferredContentHeight
+      value: 0.432
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: smallButtonAppearance.preferredBackground
+      value: 
+      objectReference: {fileID: 22493998, guid: a81cafe6622905948a3e73d550d19d3d,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: smallButtonAppearance.specialBackground1
+      value: 
+      objectReference: {fileID: 22484304, guid: d1f4b131053eed24ca05d9dff228ba05,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: smallButtonAppearance.preferredContentHeight
+      value: 0.568
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor2.r
+      value: 0.5661765
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor2.g
+      value: 0.5661765
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor2.b
+      value: 0.5661765
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: smallButtonAppearance.specialBackground2
+      value: 
+      objectReference: {fileID: 22423138, guid: bd7ad6de796f9ab43b75bc42b30facf8,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.screenShowEffect
+      value: 
+      objectReference: {fileID: 11411100, guid: 6f87b4bb8b07e104b92ea027aab0b12a,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: generalAppearance.screenCloseEffect
+      value: 
+      objectReference: {fileID: 11460936, guid: 8df454d354b8eae4795d2a6e1d82818f,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.showEffect
+      value: 
+      objectReference: {fileID: 11458434, guid: 8ed72429b3f33fa4fac308fcdf975f6e,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.closeEffect
+      value: 
+      objectReference: {fileID: 11496446, guid: b52c49f4998adaf479b723b8e0e6e660,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: smallButtonAppearance.preferredHeight
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: blackBackground
+      value: 
+      objectReference: {fileID: 22436056, guid: 483bc48d11ce65f4084f4865e182a9e1,
+        type: 2}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor3.r
+      value: 0.110510394
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor3.g
+      value: 0.14668597
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: otherAppearanceSettings.specialColor3.b
+      value: 0.20588237
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.background.r
+      value: 0.9921569
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.background.g
+      value: 0.98823535
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: popupWindowAppearance.background.b
+      value: 0.9725491
+      objectReference: {fileID: 0}
+    - target: {fileID: 0}
+      propertyPath: panelBackground
+      value: 
+      objectReference: {fileID: 22470556, guid: ce16c010078c3aa4ca49c94bdc58705c,
+        type: 2}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 161950}
+  m_IsPrefabParent: 1

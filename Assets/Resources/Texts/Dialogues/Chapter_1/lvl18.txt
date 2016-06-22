@@ -1,0 +1,14 @@
+@1.5, 3
+girl: Look!
+
++2.5, 3
+boy: What's that?
+
++2.5, 3
+bot: Mewww!
+
++4, 3
+Boy: It doesn't look dangerous.
+
++2.5, 3
+Boy: Let's go.

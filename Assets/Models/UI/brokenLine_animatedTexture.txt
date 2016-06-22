@@ -1,0 +1,2 @@
+animation duration frames: 1 - 100
+animated offset U: 1

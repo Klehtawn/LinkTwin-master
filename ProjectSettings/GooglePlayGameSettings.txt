@@ -1,0 +1,14 @@
+lastUpgrade=00932
+proj.pluginVersion=0.9.32
+proj.AppId=53695586973
+and.BundleId=com.amberstudio.linktwin
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3cstring+name%3d%22app_id%22%3e53695586973%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22package_name%22%3ecom.amberstudio.linktwin%3c%2fstring%3e%0d%0a++%3cstring+name%3d%22achievement_welcome%22%3eCgkIncWGhMgBEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e+
+and.ClientId=53695586973-8gft220oa1na7mprssa2ti1modv2ce97.apps.googleusercontent.com
+proj.requireGPlus=false
+android.SetupDone=true
+ios.ClientId=53695586973-8gft220oa1na7mprssa2ti1modv2ce97.apps.googleusercontent.com
+ios.BundleId=com.amberstudio.linktwin
+ios.ResourceData=%23define+CLIENT_ID+%40%2253695586973-8gft220oa1na7mprssa2ti1modv2ce97.apps.googleusercontent.com%22%0d%0a%23define+BUNDLE_ID+%40%22com.amberstudio.linktwin%22%0d%0a%23define+ACH_WELCOME+%40%22CgkIncWGhMgBEAIQAQ%22%0d%0a%23define+LEAD_TEST+%40%22CgkIncWGhMgBEAIQAg%22%0d
+ios.SetupDone=true

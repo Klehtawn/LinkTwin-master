@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: f1f5405311a297e47a651f666d7f9e2c
+timeCreated: 1460971263
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button_big_left
+    21300002: button_big_right
+    21300004: button_big_middle
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: button_big_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 600
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.5, y: 47}
+        - {x: -55.5, y: 16}
+        - {x: -55.5, y: -30}
+        - {x: -16.5, y: -47}
+        - {x: 55.5, y: -47}
+        - {x: 55.5, y: 47}
+    - name: button_big_right
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 0
+        width: 600
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.607544, y: -47}
+        - {x: 56.392456, y: -31}
+        - {x: 56.392456, y: 27}
+        - {x: 53.392456, y: 34}
+        - {x: -35.607544, y: 47}
+        - {x: -54.607544, y: 47}
+        - {x: -54.607544, y: -47}
+    - name: button_big_middle
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 0
+        width: 800
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5061, y: 47}
+        - {x: -73.5061, y: -47}
+        - {x: 74.4939, y: -47}
+        - {x: 74.4939, y: 47}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
